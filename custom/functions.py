@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 # Specify the URL to your package here.
 # This URL must be accessible via pip install
 
-PACKAGE_URL = 'git+https://github.com/rweidinger/functions@'
+PACKAGE_URL = 'git+https://github.com/jdyer28/LSPI@'
 
 class PrevDayHourlyAvgDiffTest1(BaseTransformer):
    '''
